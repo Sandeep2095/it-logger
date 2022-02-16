@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed 002 hard drive",
+      "attention": true,
+      "tech": "Sunil Kumar",
+      "date": "2022-02-16T05:39:05.424Z"
+    },
+    {
+      "id": 3,
+      "message": "Changes needs to server 007",
+      "attention": true,
+      "tech": "Mohit Yadav",
+      "date": "2022-02-16T07:26:02.276Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sunil",
+      "lastName": "Kumar"
+    }
+  ]
+}
